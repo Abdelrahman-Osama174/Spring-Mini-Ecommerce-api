@@ -1,0 +1,28 @@
+INSERT INTO product
+(name, brand, category, description, price, release_date, product_available, stock_quantity)
+VALUES
+('iPhone 15', 'Apple', 'Mobile', 'Latest Apple smartphone', 1200.00, '2024-09-10', true, 50),
+
+('Galaxy S24', 'Samsung', 'Mobile', 'Flagship Samsung phone', 1100.00, '2024-08-20', true, 40),
+
+('MacBook Pro', 'Apple', 'Laptop', 'M3 Chip MacBook Pro', 2500.00, '2024-10-01', true, 20),
+
+('Dell XPS 15', 'Dell', 'Laptop', 'High performance laptop', 1800.00, '2024-07-15', true, 25),
+
+('Sony WH-1000XM5', 'Sony', 'Headphones', 'Noise cancelling headphones', 399.99, '2023-11-05', true, 60),
+
+('Lenovo ThinkPad E14', 'Lenovo', 'Laptop', 'Business laptop with strong performance', 1050.00, '2024-04-18', true, 28),
+
+('AirPods Pro 2', 'Apple', 'Headphone', 'Wireless noise cancelling earbuds', 249.99, '2023-09-20', true, 70),
+
+('Samsung Galaxy A55', 'Samsung', 'Mobile', 'Mid-range Android smartphone', 450.00, '2024-02-05', true, 90),
+
+('Xiaomi Redmi Note 13', 'Xiaomi', 'Mobile', 'Affordable smartphone with AMOLED display', 320.00, '2024-01-28', true, 110),
+
+('Sony 55 Inch Smart TV', 'Sony', 'Electronics', '4K Ultra HD Smart LED TV', 900.00, '2023-11-30', true, 15),
+
+('Bluetooth Speaker', 'Anker', 'Electronics', 'Portable Bluetooth speaker', 89.99, '2023-08-14', true, 120),
+
+('Lego City Set', 'Lego', 'Toys', 'Creative building toy set for kids', 59.99, '2023-03-10', true, 200),
+
+('Men Casual Jacket', 'Zara', 'Fashion', 'Winter casual jacket for men', 120.00, '2023-10-01', true, 45);
